@@ -60,10 +60,9 @@ body, ul {
     font-size: 18px;
   }
   
-  /* Additional styles for the main content */
   main {
     padding: 50px;
-    margin-top: 60px; /* Add some space for the fixed navigation menu */
+    margin-top: 60px; 
   }
   #info {
     font-size: 40px;
@@ -75,11 +74,11 @@ body, ul {
 
   }
   nav button {
-    background-color: #7e56ca; /* Purple color */
-    color: #fff; /* White text color */
-    font-weight: 500; /* Semi-bold text */
-    padding: 9px 18px; /* Add some padding */
-    border-radius: 10px; /* Rounded corners */
+    background-color: #7e56ca; 
+    color: #fff; 
+    font-weight: 500; 
+    padding: 9px 18px; 
+    border-radius: 10px; 
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 15px;
   }
@@ -108,15 +107,15 @@ body, ul {
     justify-content: space-between;
 }
 .column {
-    flex: 0 0 48%; /* Adjust the width of columns */
+    flex: 0 0 48%; 
     margin-bottom: 20px;
 }
  img {
-  max-height: 650px; /* Shorten the image to a maximum height */
+  max-height: 650px; 
   width: auto;
-  align-items: center; /* This can be removed as it doesn't affect centering */
+  align-items: center; 
   height: auto;
-  object-fit: cover; /* Ensure the image scales nicely within the set height */
+  object-fit: cover; 
   margin: 0 auto;
   display: block;
   max-width: 1000px; /* Adjust max-width as needed */
